@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tp4</title>
+    <link rel="stylesheet" href="cv.css">
+</head>
+<body>
+    <div class="box box1">
+        <img src="an1.jpeg" alt="image 1">
+        <h2>tiger</h2>
+        <p>Tiger est un animal carnivore puissant ,
+            au cptps souple et au pelage dore tachete, 
+            vivant en afrique et en asie</p>
+        <button>button 1</button><br><br>
+    </div>
+     <div class="box box2">
+        <img src="an2.jpeg" alt="image 2">
+        <h2>Giraffe</h2>
+        <p>Giraffe est un animal d’Afrique au long cou,
+             reconnaissable à ses taches brunes,
+              qui se nourrit principalement des feuilles des arbres élevés.</p>
+        <button>button 2</button>
+    </div><br><br>
+    <div class="box box3">
+        <img src="an3.jpeg" alt="image 3">
+        <h2>Lion</h2>
+        <p>Lion est un grand carnivore d’Afrique,
+             surnommé le “roi de la jungle”,
+             reconnu pour sa puissance, 
+             sa crinière et son rugissement impressionnant.</p>
+        <button>button 3</button><br><br>
+    </div>
+     <div class="box box4">
+        <img src="an4.jpeg" alt="image 4">
+        <h2>Giant panda</h2>
+        <p>Giant panda est un animal calme originaire de Chine, 
+        reconnaissable à son pelage noir et blanc et qui se nourrit principalement de bambou.</p>
+        <button>button 4</button>
+    </div><br><br>  
+    <div class="box box5">
+        <img src="an5.jpeg" alt="image 5">
+        <h2>Hamster</h2>
+        <p>C’est un petit hamster mignon, au pelage doré et blanc, 
+            avec de grands yeux noirs brillants, 
+            posé calmement dans sa cage et tenant ses petites pattes près de sa bouche.</p>
+        <button>button 5</button>
+    </div><br><br>  
+    <div class="box box6">
+        <img src="an6.jpeg" alt="image 6">
+        <h2>Le paon</h2>
+        <p>Le paon est un oiseau magnifique aux couleurs éclatantes et à la longue
+         queue décorative qu’il déploie en éventail pour impressionner et séduire les femelles.</p>
+        <button>button 6</button>
+    </div><br><br>  
+
+</body>
+</html>
